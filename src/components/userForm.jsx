@@ -50,7 +50,7 @@ display: flex;
       }
       .submit{
         background: white;
-        color: black;
+        color: black !important;
         font-weight: bolder;
         font-size: 15px;
         margin: auto;
