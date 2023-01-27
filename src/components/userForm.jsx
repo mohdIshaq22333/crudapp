@@ -46,6 +46,7 @@ display: flex;
     padding: 10px;
     border-radius: 9px;
     width:250px;
+    color:white !important;
       }
       .submit{
         background: white;
