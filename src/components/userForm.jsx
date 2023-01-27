@@ -29,6 +29,7 @@ display: flex;
     background: #3b3b3b;
     border-radius: 12px;
     position:relative;
+    color:white;
     .cancel{
         position: absolute;
       top: 15px;
